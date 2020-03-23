@@ -1,0 +1,26 @@
+/.build/
+/deploy.properties
+/build.properties
+/runtime.properties
+/ontology/public/catalog-v0001.xml
+settings.xml
+
+rdf/auth/firsttime/test-user-model.owl
+utilities/solrtester/.work
+utilities/rdbmigration/.work
+
+# maven install generation
+**/.idea
+**/*.iml
+**/target
+**/overlays
+# in this case, src are generated from src-i18m
+**/src 
+*~
+
+# Eclipse artifacts
+**/.tern-project
+**/.settings
+**/.classpath
+**/.project
+**/bin/

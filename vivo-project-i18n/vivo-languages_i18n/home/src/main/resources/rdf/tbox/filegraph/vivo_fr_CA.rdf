@@ -1,0 +1,2642 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="file:/C:/VIVO-Trad-ecosysteme/GIT/DATA_CONNECT/vivo-uqam-i18n/vivo-project-i18n/vivo-languages_i18n/home/src/main/resources/rdf/tbox/filegraph/vivo_fr_CA.nt">
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/subsequentLegalDecision">
+    <rdfs:label xml:lang="fr-CA">décision légale subséquente</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AttendingProcess">
+    <rdfs:label xml:lang="fr-CA">Processus de participation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#locality">
+    <rdfs:label xml:lang="fr-CA">localité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001518">
+    <rdfs:label xml:lang="fr-CA">phase</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#scopusId">
+    <rdfs:label xml:lang="fr-CA">ID Scopus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PresentingProcess">
+    <rdfs:label xml:lang="fr-CA">Processus de présentation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialRU">
+    <rdfs:label xml:lang="fr-CA">nameOfficialRU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/BibliographicInformationSource">
+    <rdfs:label xml:lang="fr-CA">Source de données bibliographiques</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#geographicFocus">
+    <rdfs:label xml:lang="fr-CA">Perspective géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasCalenderBusy">
+    <rdfs:label xml:lang="fr-CA">calendrier chargé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Location">
+    <rdfs:label xml:lang="fr-CA">Lieu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListEN">
+    <rdfs:label xml:lang="fr-CA">nameListEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PostdocPosition">
+    <rdfs:label xml:lang="fr-CA">Poste postdoctoral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#end">
+    <rdfs:label xml:lang="fr-CA">fin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateIssued">
+    <rdfs:label xml:lang="fr-CA">date de parution</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#landAreaNotes">
+    <rdfs:label xml:lang="fr-CA">notes territoriales</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasLanguage">
+    <rdfs:label xml:lang="fr-CA">langue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+    <rdfs:label xml:lang="fr-CA">Personne</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#contributingRole">
+    <rdfs:label xml:lang="fr-CA">contributeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasCollaborator">
+    <rdfs:label xml:lang="fr-CA">collaborateurs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Webpage">
+    <rdfs:label xml:lang="fr-CA">Page web</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasCode">
+    <rdfs:label xml:lang="fr-CA">code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#freetextKeyword">
+    <rdfs:label xml:lang="fr-CA">mots clés</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#yearPrecision">
+    <rdfs:label xml:lang="fr-CA">Année</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000779">
+    <rdfs:label xml:lang="fr-CA">Rôle de résident permanent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/LegalDocument">
+    <rdfs:label xml:lang="fr-CA">Document légal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000070">
+    <rdfs:label xml:lang="fr-CA">utilisé par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Editorship">
+    <rdfs:label xml:lang="fr-CA">Rédaction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#publisher">
+    <rdfs:label xml:lang="fr-CA">éditeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#documentationFor">
+    <rdfs:label xml:lang="fr-CA">documentation ou ressource du projet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListIT">
+    <rdfs:label xml:lang="fr-CA">nameListIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#MemberRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de membre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Single_group_study">
+    <rdfs:label xml:lang="fr-CA">Étude d'un seul groupe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Individual">
+    <rdfs:label xml:lang="fr-CA">Individu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/presentedAt">
+    <rdfs:label xml:lang="fr-CA">presenté à l'événement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Note">
+    <rdfs:label xml:lang="fr-CA">Note</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasCategory">
+    <rdfs:label xml:lang="fr-CA">catégorie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Calendar">
+    <rdfs:label xml:lang="fr-CA">Calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#OCRE100038">
+    <rdfs:label xml:lang="fr-CA">Phase</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasCalendarLink">
+    <rdfs:label xml:lang="fr-CA">lien calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#photo">
+    <rdfs:label xml:lang="fr-CA">photo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasTimeZone">
+    <rdfs:label xml:lang="fr-CA">fuseau horaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#identifier">
+    <rdfs:label xml:lang="fr-CA">identifiant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AttendeeRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de participant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/vocab/vann/preferredNamespaceUri">
+    <rdfs:label xml:lang="fr-CA">espace de nommage URI préféré</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/reviewOf">
+    <rdfs:label xml:lang="fr-CA">critique de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#logo">
+    <rdfs:label xml:lang="fr-CA">logo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#related">
+    <rdfs:label xml:lang="fr-CA">concept associé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Interview">
+    <rdfs:label xml:lang="fr-CA">Interview</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/uri">
+    <rdfs:label xml:lang="fr-CA">URI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PrincipalInvestigatorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de chercheur principal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#populationUnit">
+    <rdfs:label xml:lang="fr-CA">unité de population</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GraduateAdvisingRelationship">
+    <rdfs:label xml:lang="fr-CA">Relation de conseil aux diplômés</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Article">
+    <rdfs:label xml:lang="fr-CA">Article</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_0000172">
+    <rdfs:label xml:lang="fr-CA">ID de patient</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000776">
+    <rdfs:label xml:lang="fr-CA">Rôle de résident (USA)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasFacility">
+    <rdfs:label xml:lang="fr-CA">installation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#assigneeFor">
+    <rdfs:label xml:lang="fr-CA">Brevets</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#special_group">
+    <rdfs:label xml:lang="fr-CA">Groupe spécial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#College">
+    <rdfs:label xml:lang="fr-CA">Collège</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GeopoliticalEntity">
+    <rdfs:label xml:lang="fr-CA">Entité géopolitique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateFiled">
+    <rdfs:label xml:lang="fr-CA">date saisie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#WorkingPaper">
+    <rdfs:label xml:lang="fr-CA">Document de travail</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AdvisingProcess">
+    <rdfs:label xml:lang="fr-CA">Processus de consultation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#populationYear">
+    <rdfs:label xml:lang="fr-CA">populationAnnée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Muse">
+    <rdfs:label xml:lang="fr-CA">Muse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000299">
+    <rdfs:label xml:lang="fr-CA">résultat défini</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000775">
+    <rdfs:label xml:lang="fr-CA">conditions de résidence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000008">
+    <rdfs:label xml:lang="fr-CA">Région temporelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#patentNumber">
+    <rdfs:label xml:lang="fr-CA">numéro de brevet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000080">
+    <rdfs:label xml:lang="fr-CA">American Board of Pediatrics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_0000197">
+    <rdfs:label xml:lang="fr-CA">ID de service de santé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000424">
+    <rdfs:label xml:lang="fr-CA">étude démographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasMaxLongitude">
+    <rdfs:label xml:lang="fr-CA">longitude maximale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#landArea">
+    <rdfs:label xml:lang="fr-CA">zone terrestre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#equipmentFor">
+    <rdfs:label xml:lang="fr-CA">équipement destiné à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Parent">
+    <rdfs:label xml:lang="fr-CA">Parent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#RelatedType">
+    <rdfs:label xml:lang="fr-CA">Type de relation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#FundingOrganization">
+    <rdfs:label xml:lang="fr-CA">Organisme de financement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Security">
+    <rdfs:label xml:lang="fr-CA">Securité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000029">
+    <rdfs:label xml:lang="fr-CA">Site</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasSuccessorOrganization">
+    <rdfs:label xml:lang="fr-CA">organisation remplaçante</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialAR">
+    <rdfs:label xml:lang="fr-CA">nameOfficialAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000778">
+    <rdfs:label xml:lang="fr-CA">citoyen non américain</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/degree">
+    <rdfs:label xml:lang="fr-CA">diplôme associé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Campus">
+    <rdfs:label xml:lang="fr-CA">Campus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Crush">
+    <rdfs:label xml:lang="fr-CA">Béguin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Fax">
+    <rdfs:label xml:lang="fr-CA">Télécopieur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000006">
+    <rdfs:label xml:lang="fr-CA">Région spatiale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Code">
+    <rdfs:label xml:lang="fr-CA">Code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/hasGlobalCitationFrequency">
+    <rdfs:label xml:lang="fr-CA">fréquence globale de citation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/gtin14">
+    <rdfs:label xml:lang="fr-CA">Global Trade Item Number (GTIN-14)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000011">
+    <rdfs:label xml:lang="fr-CA">Processus planifié</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000777">
+    <rdfs:label xml:lang="en">Rôle de citoyen (US)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#placeOfPublition">
+    <rdfs:label xml:lang="fr-CA">lieu de publication</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Friend">
+    <rdfs:label xml:lang="fr-CA">Ami</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#University">
+    <rdfs:label xml:lang="fr-CA">Université</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Student">
+    <rdfs:label xml:lang="fr-CA">Étudiant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#isAdministeredBy">
+    <rdfs:label xml:lang="fr-CA">est administré par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AcademicDegree">
+    <rdfs:label xml:lang="fr-CA">Diplôme universitaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#isInGroup">
+    <rdfs:label xml:lang="fr-CA">regroupement géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/cites">
+    <rdfs:label xml:lang="fr-CA">cites</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PresenterRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de présentateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Explanatory">
+    <rdfs:label xml:lang="fr-CA">Explicatif</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns">
+    <rdfs:label xml:lang="fr-CA">VCard</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#organizationalUnitName">
+    <rdfs:label xml:lang="fr-CA">nom de l'unité organisationnelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/UO_0000280">
+    <rdfs:label xml:lang="fr-CA">Unité tarifaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#County">
+    <rdfs:label xml:lang="fr-CA">Comté</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Slideshow">
+    <rdfs:label xml:lang="fr-CA">Diaporama</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#supportedInformationResource">
+    <rdfs:label xml:lang="fr-CA">publications financées et autres travaux</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#gender">
+    <rdfs:label xml:lang="fr-CA">genre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Child">
+    <rdfs:label xml:lang="fr-CA">Enfant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#birthdate">
+    <rdfs:label xml:lang="fr-CA">date de naissance</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#validSince">
+    <rdfs:label xml:lang="fr-CA">valide depuis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Patent">
+    <rdfs:label xml:lang="fr-CA">Brevet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Blog">
+    <rdfs:label xml:lang="fr-CA">Blog</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/DocumentPart">
+    <rdfs:label xml:lang="fr-CA">Partie du document</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#pmcid">
+    <rdfs:label xml:lang="fr-CA">ID PubMed Central</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#rank">
+    <rdfs:label xml:lang="fr-CA">rang</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialES">
+    <rdfs:label xml:lang="fr-CA">nameOfficialES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#organizationName">
+    <rdfs:label xml:lang="fr-CA">nom de l'organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Institute">
+    <rdfs:label xml:lang="fr-CA">Institut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/NET/c4dm/event.owl#Event">
+    <rdfs:label xml:lang="fr-CA">Événement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/sici">
+    <rdfs:label xml:lang="fr-CA">Serial Item and Contribution Identifier (SICI)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Telephone">
+    <rdfs:label xml:lang="fr-CA">Téléphone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#TimeZone">
+    <rdfs:label xml:lang="fr-CA">Fuseau horaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/upc">
+    <rdfs:label xml:lang="fr-CA">Code universel de produit (UPC)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#LibrarianPosition">
+    <rdfs:label xml:lang="fr-CA">Poste de bibliothécaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#subcontractsGrant">
+    <rdfs:label xml:lang="fr-CA">subvention en sous-traitance</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyAR">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#countryAreaTotal">
+    <rdfs:label xml:lang="fr-CA">total pays </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000031">
+    <rdfs:label xml:lang="fr-CA">utilise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000272">
+    <rdfs:label xml:lang="fr-CA">Protocole</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/coden">
+    <rdfs:label xml:lang="fr-CA">coden</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeUNDP">
+    <rdfs:label xml:lang="fr-CA">codeUNDP</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#CalendarRequest">
+    <rdfs:label xml:lang="fr-CA">Requête calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyRU">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyRU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/">
+    <rdfs:label xml:lang="fr-CA">FOAF (Friend of a Friend)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Award">
+    <rdfs:label xml:lang="fr-CA">Prix et Distinction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/performer">
+    <rdfs:label xml:lang="fr-CA">interprète</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/AudioDocument">
+    <rdfs:label xml:lang="fr-CA">Document audio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Language">
+    <rdfs:label xml:lang="fr-CA">Langue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000054">
+    <rdfs:label xml:lang="fr-CA">format de données de labo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#sponsorAwardId">
+    <rdfs:label xml:lang="fr-CA">ID du prix du commanditaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasMember">
+    <rdfs:label xml:lang="fr-CA">membre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ConferencePaper">
+    <rdfs:label xml:lang="fr-CA">Article de conférence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/isbn10">
+    <rdfs:label xml:lang="fr-CA">International Standard Book Number (ISBN) 10</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Dataset">
+    <rdfs:label xml:lang="fr-CA">Jeu de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GeographicLocation">
+    <rdfs:label xml:lang="fr-CA">Lieu géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Certificate">
+    <rdfs:label xml:lang="fr-CA">Certificat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#honorificPrefix">
+    <rdfs:label xml:lang="fr-CA">préfixe honorifique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#uid">
+    <rdfs:label xml:lang="fr-CA">uid</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000072">
+    <rdfs:label xml:lang="fr-CA">version</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001716">
+    <rdfs:label xml:lang="fr-CA">Base de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#sponsors">
+    <rdfs:label xml:lang="fr-CA">prix ou distinctions des commanditaires</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PrimaryPosition">
+    <rdfs:label xml:lang="fr-CA">Poste principal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#relatedBy">
+    <rdfs:label xml:lang="fr-CA">relié par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/published">
+    <rdfs:label xml:lang="fr-CA">publié</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#sponsoredBy">
+    <rdfs:label xml:lang="fr-CA">prix commandité par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000221">
+    <rdfs:label xml:lang="fr-CA">mesure de qualité de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000003">
+    <rdfs:label xml:lang="fr-CA">Étiquette d'unité de mesure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000136">
+    <rdfs:label xml:lang="fr-CA">traite de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000027">
+    <rdfs:label xml:lang="fr-CA">Élément de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#nctId">
+    <rdfs:label xml:lang="fr-CA">Numéro du National Clinical Trials (NCT)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasTranslation">
+    <rdfs:label xml:lang="fr-CA">traduction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Equipment">
+    <rdfs:label xml:lang="fr-CA">Équipement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/numPages">
+    <rdfs:label xml:lang="fr-CA">nombre de pages</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000071">
+    <rdfs:label xml:lang="fr-CA">Software</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AdvisorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de conseiller</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#DateTimeInterval">
+    <rdfs:label xml:lang="fr-CA">intervalle date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#SeminarSeries">
+    <rdfs:label xml:lang="fr-CA">Collections de séminaires</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#features">
+    <rdfs:label xml:lang="fr-CA">caractéristiques</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#assigns">
+    <rdfs:label xml:lang="fr-CA">assigne</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EmeritusLibrarian">
+    <rdfs:label xml:lang="fr-CA">Bibliothécaire émérite</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#note">
+    <rdfs:label xml:lang="fr-CA">note</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">
+    <rdfs:label xml:lang="fr-CA">est défini par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ClinicalRole">
+    <rdfs:label xml:lang="fr-CA">Rôle clinique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasAddress">
+    <rdfs:label xml:lang="fr-CA">adresse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EventSeries">
+    <rdfs:label xml:lang="fr-CA">Série d'événements</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/isCitedAsDataSourceBy">
+    <rdfs:label xml:lang="fr-CA">est cité comme source par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Sweetheart">
+    <rdfs:label xml:lang="fr-CA">Chérie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000050">
+    <rdfs:label xml:lang="fr-CA">numéro de modèle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PeerReviewerRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de pair évaluateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#None">
+    <rdfs:label xml:lang="fr-CA">Aucun</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasGoverningAuthority">
+    <rdfs:label xml:lang="fr-CA">autorité dirigeante</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Division">
+    <rdfs:label xml:lang="fr-CA">Division</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000005">
+    <rdfs:label xml:lang="fr-CA">Spécification des objectifs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#key">
+    <rdfs:label xml:lang="fr-CA">Clé de chiffrement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Agent">
+    <rdfs:label xml:lang="fr-CA">Agent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#timeZone">
+    <rdfs:label xml:lang="fr-CA">fuseau horaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/isbn13">
+    <rdfs:label xml:lang="fr-CA">International Standard Book Number (ISBN) 13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaTotal">
+    <rdfs:label xml:lang="fr-CA">agriculturalAreaTotal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasPrerequisite">
+    <rdfs:label xml:lang="fr-CA">prérequis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#FormattedName">
+    <rdfs:label xml:lang="fr-CA">Nom formaté</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000293">
+    <rdfs:label xml:lang="fr-CA">intrant spécifique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#geographicFocusOf">
+    <rdfs:label xml:lang="fr-CA">Perspective géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListZH">
+    <rdfs:label xml:lang="fr-CA">nameListZH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#iclCode">
+    <rdfs:label xml:lang="fr-CA">code de classification Internationale (ICL) code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002234">
+    <rdfs:label xml:lang="fr-CA">résultat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#disputed">
+    <rdfs:label xml:lang="fr-CA">Contesté</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#instantMessage">
+    <rdfs:label xml:lang="fr-CA">message instantané</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/doi">
+    <rdfs:label xml:lang="fr-CA">Digital Object Identifier (DOI)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000031">
+    <rdfs:label xml:lang="fr-CA">Continuant génériquement dépendant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000055">
+    <rdfs:label xml:lang="fr-CA">réalise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/peerReviewed">
+    <rdfs:label xml:lang="fr-CA">revu par les pairs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Website">
+    <rdfs:label xml:lang="fr-CA">Site web</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Emergency">
+    <rdfs:label xml:lang="fr-CA">Urgence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Video">
+    <rdfs:label xml:lang="fr-CA">Vidéo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000104">
+    <rdfs:label xml:lang="fr-CA">Spécification du plan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000067">
+    <rdfs:label xml:lang="fr-CA">American Board of Colon and Rectal Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasResearchArea">
+    <rdfs:label xml:lang="fr-CA">Domaine de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002233">
+    <rdfs:label xml:lang="fr-CA">intrant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0000056">
+    <rdfs:label xml:lang="fr-CA">participe à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000300">
+    <rdfs:label xml:lang="fr-CA">Entité textuelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Abstract">
+    <rdfs:label xml:lang="fr-CA">Résumé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#country">
+    <rdfs:label xml:lang="fr-CA">pays</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000141">
+    <rdfs:label xml:lang="fr-CA">Entité immatérielle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityES">
+    <rdfs:label xml:lang="fr-CA">nationalityES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000460">
+    <rdfs:label xml:lang="fr-CA">documentation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Sound">
+    <rdfs:label xml:lang="fr-CA">Son</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000068">
+    <rdfs:label xml:lang="fr-CA">American Board of Dermatology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Geo">
+    <rdfs:label xml:lang="fr-CA">Géo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#landAreaTotal">
+    <rdfs:label xml:lang="fr-CA">superficie totale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0000057">
+    <rdfs:label xml:lang="fr-CA">participants</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#totalAwardAmount">
+    <rdfs:label xml:lang="fr-CA">Montant total des prix </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#sameAs">
+    <rdfs:label xml:lang="fr-CA">même que</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#Phase4ClinicalTrial">
+    <rdfs:label xml:lang="fr-CA">Essai clinique de phase 4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#CoreLaboratory">
+    <rdfs:label xml:lang="fr-CA">Laboratoire principal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#DeprecatedProperty">
+    <rdfs:label xml:lang="fr-CA">propriété obsolète</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000065">
+    <rdfs:label xml:lang="fr-CA">American Board of Allergy and Immunology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000790">
+    <rdfs:label xml:lang="fr-CA">Stagiaire post-baccalauréat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000572">
+    <rdfs:label xml:lang="fr-CA">étude sur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#populationTotal">
+    <rdfs:label xml:lang="fr-CA">population totale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#calendarLink">
+    <rdfs:label xml:lang="fr-CA">lien calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#publicationVenueFor">
+    <rdfs:label xml:lang="fr-CA">lieu de publication pour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Kin">
+    <rdfs:label xml:lang="fr-CA">Proche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Logo">
+    <rdfs:label xml:lang="fr-CA">Logo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#supplementalInformation">
+    <rdfs:label xml:lang="fr-CA">information supplémentaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000089">
+    <rdfs:label xml:lang="fr-CA">American Board of Urology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeAGROVOC">
+    <rdfs:label xml:lang="fr-CA">codeAGROVOC</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyES">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Screenplay">
+    <rdfs:label xml:lang="fr-CA">Scénario</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListRU">
+    <rdfs:label xml:lang="fr-CA">nameListRU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Conference">
+    <rdfs:label xml:lang="fr-CA">Conference</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0001015">
+    <rdfs:label xml:lang="fr-CA">lieu de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000054">
+    <rdfs:label xml:lang="fr-CA">réalisé dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000595">
+    <rdfs:label xml:lang="fr-CA">Opportunité de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#distributes">
+    <rdfs:label xml:lang="fr-CA">distribue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000066">
+    <rdfs:label xml:lang="fr-CA">American Board of Anesthesiology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000109">
+    <rdfs:label xml:lang="fr-CA">Référence de mesure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000051">
+    <rdfs:label xml:lang="fr-CA">partie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#source">
+    <rdfs:label xml:lang="fr-CA">source</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/reversedBy">
+    <rdfs:label xml:lang="fr-CA">inversé par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/asin">
+    <rdfs:label xml:lang="fr-CA">Amazon Standard Identification Number (ASIN)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ClinicalOrganization">
+    <rdfs:label xml:lang="fr-CA">Organisation clinique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#seatingCapacity">
+    <rdfs:label xml:lang="fr-CA">capacité de la salle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Comment">
+    <rdfs:label xml:lang="fr-CA">Commentaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000045">
+    <rdfs:label xml:lang="fr-CA">restrictions</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000396">
+    <rdfs:label xml:lang="fr-CA">Service de production de matières</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#nickName">
+    <rdfs:label xml:lang="fr-CA">surnom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#CalendarLink">
+    <rdfs:label xml:lang="fr-CA">Lien calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateTimePrecision">
+    <rdfs:label xml:lang="fr-CA">précision date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#License">
+    <rdfs:label xml:lang="fr-CA">Permis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListAR">
+    <rdfs:label xml:lang="fr-CA">nameListAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#overview">
+    <rdfs:label xml:lang="fr-CA">aperçu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortFR">
+    <rdfs:label xml:lang="fr-CA">nameShortFR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0000052">
+    <rdfs:label xml:lang="fr-CA">inhérent à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#departmentOrSchool">
+    <rdfs:label xml:lang="fr-CA">nom du département ou de l'école  au sein de l'institution</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#FacultyMember">
+    <rdfs:label xml:lang="fr-CA">Professeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasShortName">
+    <rdfs:label xml:lang="fr-CA">nom court</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#GDPNotes">
+    <rdfs:label xml:lang="fr-CA">Notes PIB</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/identifier">
+    <rdfs:label xml:lang="fr-CA">identifiant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Home">
+    <rdfs:label xml:lang="fr-CA">Accueil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000643">
+    <rdfs:label xml:lang="fr-CA">grain </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000044">
+    <rdfs:label xml:lang="fr-CA">numéro d'inventaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Excerpt">
+    <rdfs:label xml:lang="fr-CA">Extrait</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000020">
+    <rdfs:label xml:lang="fr-CA">Spécimen biologique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000395">
+    <rdfs:label xml:lang="fr-CA">Service d'analyse matérielle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#governingAuthorityFor">
+    <rdfs:label xml:lang="fr-CA">autorité dirigeante de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000399">
+    <rdfs:label xml:lang="fr-CA">agent de liaison</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#supports">
+    <rdfs:label xml:lang="fr-CA">supporte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasLogo">
+    <rdfs:label xml:lang="fr-CA">logo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0000053">
+    <rdfs:label xml:lang="fr-CA">détenteur de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/Erratum">
+    <rdfs:label xml:lang="fr-CA">Erratum</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Map">
+    <rdfs:label xml:lang="fr-CA">Carte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/GlobalCitationCount">
+    <rdfs:label xml:lang="fr-CA">Nombre total de citations</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001245">
+    <rdfs:label xml:lang="fr-CA">Licences d'utilisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyEN">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000021">
+    <rdfs:label xml:lang="fr-CA">Expérience</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#yearMonthDayTimePrecision">
+    <rdfs:label xml:lang="fr-CA">Année-mois-jour-heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000398">
+    <rdfs:label xml:lang="fr-CA">effectué par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Library">
+    <rdfs:label xml:lang="fr-CA">Bibliothèque</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AcademicTerm">
+    <rdfs:label xml:lang="fr-CA">Période académique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#informationResourceSupportedBy">
+    <rdfs:label xml:lang="fr-CA">supporté par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasCalendarRequest">
+    <rdfs:label xml:lang="fr-CA">exigence de calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#category">
+    <rdfs:label xml:lang="fr-CA">catégorie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000069">
+    <rdfs:label xml:lang="fr-CA">American Board of Emergency Medicine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/number">
+    <rdfs:label xml:lang="fr-CA">numéro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Code">
+    <rdfs:label xml:lang="fr-CA">Code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#accessProvidedBy">
+    <rdfs:label xml:lang="fr-CA">accès fourni par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000050">
+    <rdfs:label xml:lang="fr-CA">partie de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/transcriptOf">
+    <rdfs:label xml:lang="fr-CA">transcription de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Catalog">
+    <rdfs:label xml:lang="fr-CA">Catalogue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/">
+    <rdfs:label xml:lang="fr-CA">Citation Counting and Context Characterization Ontology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000481">
+    <rdfs:label xml:lang="fr-CA">réalise le protocole</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl">
+    <rdfs:label xml:lang="fr-CA"> planification des recherches (OCRe)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AwardReceipt">
+    <rdfs:label xml:lang="fr-CA">Prix ou distinction reçu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000046">
+    <rdfs:label xml:lang="fr-CA">restriction géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000397">
+    <rdfs:label xml:lang="fr-CA">réalise la technique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AcademicDepartment">
+    <rdfs:label xml:lang="fr-CA">Département (académique)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000482">
+    <rdfs:label xml:lang="fr-CA">logiciel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Chapter">
+    <rdfs:label xml:lang="fr-CA">Chapitre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/reproducedIn">
+    <rdfs:label xml:lang="fr-CA">reproduit dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#outreachOverview">
+    <rdfs:label xml:lang="fr-CA">aperçu des activités</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/pmid">
+    <rdfs:label xml:lang="fr-CA">ID PubMed</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000022">
+    <rdfs:label xml:lang="fr-CA">spécialisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityAR">
+    <rdfs:label xml:lang="fr-CA">nationalityAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#givenName">
+    <rdfs:label xml:lang="fr-CA">prénom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GraduateStudent">
+    <rdfs:label xml:lang="fr-CA">Diplômé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#calendarRequest">
+    <rdfs:label xml:lang="fr-CA">exigence de calendrier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/research.owl">
+    <rdfs:label xml:lang="fr-CA">Recherche OCRe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000015">
+    <rdfs:label xml:lang="fr-CA">Processus</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Credential">
+    <rdfs:label xml:lang="fr-CA">certification</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyIT">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Email">
+    <rdfs:label xml:lang="fr-CA">Courriel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000083">
+    <rdfs:label xml:lang="fr-CA">American Board of Plastic Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000148">
+    <rdfs:label xml:lang="fr-CA">Région temporelle à dimension zéro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#reproduces">
+    <rdfs:label xml:lang="fr-CA">reproduit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/">
+    <rdfs:label xml:lang="fr-CA">Ontologie Bibo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000417">
+    <rdfs:label xml:lang="fr-CA">fait l'objet d'une évaluation qualitative </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Name">
+    <rdfs:label xml:lang="fr-CA">Nom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#isPredecessorOf">
+    <rdfs:label xml:lang="fr-CA">précède</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Standard">
+    <rdfs:label xml:lang="fr-CA">Standard</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Postdoc">
+    <rdfs:label xml:lang="fr-CA">Post-doctorat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000312">
+    <rdfs:label xml:lang="fr-CA">résultat spécifique de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000084">
+    <rdfs:label xml:lang="fr-CA">American Board of Preventive Medicine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#assignedBy">
+    <rdfs:label xml:lang="fr-CA">assigné par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000016">
+    <rdfs:label xml:lang="fr-CA">Disposition</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Kind">
+    <rdfs:label xml:lang="fr-CA">Type VCard</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeFAOTERM">
+    <rdfs:label xml:lang="fr-CA">codeFAOTERM</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/lccn">
+    <rdfs:label xml:lang="fr-CA"> numéro de contrôle de Library of Congress  (LCCN)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeISO2">
+    <rdfs:label xml:lang="fr-CA">codeISO2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#GDPUnit">
+    <rdfs:label xml:lang="fr-CA">Unité de PIB</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Center">
+    <rdfs:label xml:lang="fr-CA">Centre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Manuscript">
+    <rdfs:label xml:lang="fr-CA">manuscrit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#organization">
+    <rdfs:label xml:lang="fr-CA">Organiaation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000774">
+    <rdfs:label xml:lang="fr-CA">critères d'éligibilité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/pageStart">
+    <rdfs:label xml:lang="fr-CA">Page de début</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000081">
+    <rdfs:label xml:lang="fr-CA">American Board of Physical Medicine and Rehabilitation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasOrganizationalUnitName">
+    <rdfs:label xml:lang="fr-CA">a un nom d'organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Quote">
+    <rdfs:label xml:lang="fr-CA">Citation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#StateOrProvince">
+    <rdfs:label xml:lang="fr-CA">État ou Province</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Document">
+    <rdfs:label xml:lang="fr-CA">Document</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#DateTimeValuePrecision">
+    <rdfs:label xml:lang="fr-CA">Précision Date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/unpublished">
+    <rdfs:label xml:lang="fr-CA">non publié</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/CollectedDocument">
+    <rdfs:label xml:lang="fr-CA">Documents recueillis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeISO3">
+    <rdfs:label xml:lang="fr-CA">codeISO3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Date">
+    <rdfs:label xml:lang="fr-CA">Date</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#non_self_governing">
+    <rdfs:label xml:lang="fr-CA">Non autonome</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Category">
+    <rdfs:label xml:lang="fr-CA">Catégorie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#TelephoneType">
+    <rdfs:label xml:lang="fr-CA">Type de téléphone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Translation">
+    <rdfs:label xml:lang="fr-CA">Tranduction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Program">
+    <rdfs:label xml:lang="fr-CA">Programme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Spouse">
+    <rdfs:label xml:lang="fr-CA">Épouse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#TextPhone">
+    <rdfs:label xml:lang="fr-CA">Téléphone texto </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000038">
+    <rdfs:label xml:lang="fr-CA">Région temporelle unidimensionnelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#expirationDate">
+    <rdfs:label xml:lang="fr-CA">date d'expiration</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Company">
+    <rdfs:label xml:lang="fr-CA">Compagnie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#CaseStudy">
+    <rdfs:label xml:lang="fr-CA">Étude de cas</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/status">
+    <rdfs:label xml:lang="fr-CA">statut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListES">
+    <rdfs:label xml:lang="fr-CA">nameListES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0100026">
+    <rdfs:label xml:lang="fr-CA">Organisme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortZH">
+    <rdfs:label xml:lang="fr-CA">nameShortZH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/DocumentStatus">
+    <rdfs:label xml:lang="fr-CA">Statut du document</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EditorialArticle">
+    <rdfs:label xml:lang="fr-CA">Article éditorial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PostdocOrFellowAdvisingRelationship">
+    <rdfs:label xml:lang="fr-CA">Relation conseil avec les étudiants post-doctoraux ou fellow </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0001554">
+    <rdfs:label xml:lang="fr-CA">Référence de mesure du taux</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasName">
+    <rdfs:label xml:lang="fr-CA">nom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Team">
+    <rdfs:label xml:lang="fr-CA">Équipe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Manual">
+    <rdfs:label xml:lang="fr-CA">Manuel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateTimeInterval">
+    <rdfs:label xml:lang="fr-CA">intervalle date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaNotes">
+    <rdfs:label xml:lang="fr-CA">notes sur les territoires agricoles</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Coresident">
+    <rdfs:label xml:lang="fr-CA">Co-résident</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000005">
+    <rdfs:label xml:lang="fr-CA">Service</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#roleContributesTo">
+    <rdfs:label xml:lang="fr-CA">contribue à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000087">
+    <rdfs:label xml:lang="fr-CA">American Board of Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#OutreachProviderRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de responsable de la mobilisation des connaissances </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#other">
+    <rdfs:label xml:lang="fr-CA">Autre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000390">
+    <rdfs:label xml:lang="fr-CA">contexte de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Report">
+    <rdfs:label xml:lang="fr-CA">Rapport</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#description">
+    <rdfs:label xml:lang="fr-CA">description</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#grantSubcontractedThrough">
+    <rdfs:label xml:lang="fr-CA">sous-contracté par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ConferencePoster">
+    <rdfs:label xml:lang="fr-CA">Affiche de conférence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/EditedBook">
+    <rdfs:label xml:lang="fr-CA">Livre édité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000029">
+    <rdfs:label xml:lang="fr-CA">fournit l'accès à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hrJobTitle">
+    <rdfs:label xml:lang="fr-CA">titre d'emploi de RH </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/LegalCaseDocument">
+    <rdfs:label xml:lang="fr-CA">Document de cas juridique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#FacultyPosition">
+    <rdfs:label xml:lang="fr-CA">Poste de professeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Nickname">
+    <rdfs:label xml:lang="fr-CA">Surnom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Hearing">
+    <rdfs:label xml:lang="fr-CA">Audience</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Certification">
+    <rdfs:label xml:lang="fr-CA">Certification</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ResearcherRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de chercheur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Note">
+    <rdfs:label xml:lang="fr-CA">Note</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/edition">
+    <rdfs:label xml:lang="fr-CA">édition</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PrivateCompany">
+    <rdfs:label xml:lang="fr-CA">Compagnie privée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasValue">
+    <rdfs:label xml:lang="fr-CA">valeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000004">
+    <rdfs:label xml:lang="fr-CA">Instrument</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasMember">
+    <rdfs:label xml:lang="fr-CA">pays ou territoire membre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000391">
+    <rdfs:label xml:lang="fr-CA">contexte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Gender">
+    <rdfs:label xml:lang="fr-CA">Genre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateTime">
+    <rdfs:label xml:lang="fr-CA">date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#preferredDisplayOrder">
+    <rdfs:label xml:lang="fr-CA">ordre de présentation préféré</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#MedicalResidency">
+    <rdfs:label xml:lang="fr-CA">Résidence médicale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000088">
+    <rdfs:label xml:lang="fr-CA">American Board of Thoracic Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Statute">
+    <rdfs:label xml:lang="fr-CA">Statut</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasOfficialName">
+    <rdfs:label xml:lang="fr-CA">nom officiel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#territory">
+    <rdfs:label xml:lang="fr-CA">Territoire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0001018">
+    <rdfs:label xml:lang="fr-CA">contenu dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000225">
+    <rdfs:label xml:lang="fr-CA">Rôle d'enseignant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000085">
+    <rdfs:label xml:lang="fr-CA">American Board of Psychiatry and Neurology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasRole">
+    <rdfs:label xml:lang="fr-CA">rôle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/ThesisDegree">
+    <rdfs:label xml:lang="fr-CA">Diplôme de thèse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityRU">
+    <rdfs:label xml:lang="fr-CA">nationalityRU</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_0000001">
+    <rdfs:label xml:lang="fr-CA">gabarit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0500000">
+    <rdfs:label xml:lang="fr-CA">Plan d'étude</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000007">
+    <rdfs:label xml:lang="fr-CA">Technique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Sibling">
+    <rdfs:label xml:lang="fr-CA">Frère/Soeur </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0001019">
+    <rdfs:label xml:lang="fr-CA">contient</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000034">
+    <rdfs:label xml:lang="fr-CA">Fonction</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/recipient">
+    <rdfs:label xml:lang="fr-CA">destinataire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000224">
+    <rdfs:label xml:lang="fr-CA">Rôle de financement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/">
+    <rdfs:label xml:lang="fr-CA">CiTO (Citation Typing Ontology)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000086">
+    <rdfs:label xml:lang="fr-CA">American Board of Radiology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasNote">
+    <rdfs:label xml:lang="fr-CA">note</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#GDPYear">
+    <rdfs:label xml:lang="fr-CA">GDPYear</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasPublicationVenue">
+    <rdfs:label xml:lang="fr-CA">publié dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#WorkshopSeries">
+    <rdfs:label xml:lang="fr-CA">Séries d'ateliers</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000006">
+    <rdfs:label xml:lang="fr-CA">Réactif</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Coworker">
+    <rdfs:label xml:lang="fr-CA">Collaborateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Licensure">
+    <rdfs:label xml:lang="fr-CA">Permis d'exercer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Association">
+    <rdfs:label xml:lang="fr-CA">Association</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#anniversary">
+    <rdfs:label xml:lang="fr-CA">anniversaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#validIn">
+    <rdfs:label xml:lang="fr-CA">valide en</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/distributor">
+    <rdfs:label xml:lang="fr-CA">distributeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Address">
+    <rdfs:label xml:lang="fr-CA">Adresse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#economic_region">
+    <rdfs:label xml:lang="fr-CA">Région économique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EmeritusFaculty">
+    <rdfs:label xml:lang="fr-CA">Professeur émérite</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#NonFacultyAcademicPosition">
+    <rdfs:label xml:lang="fr-CA">Poste académique non professoral</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vitro.mannlib.cornell.edu/ns/vitro/public#File">
+    <rdfs:label xml:lang="fr-CA">Dossier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#OrganizationName">
+    <rdfs:label xml:lang="fr-CA">Nom de l'organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#Phase0ClinicalTrial">
+    <rdfs:label xml:lang="fr-CA">Essai clinique de phase 0</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#NonAcademic">
+    <rdfs:label xml:lang="fr-CA">Non-académique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasInstantMessage">
+    <rdfs:label xml:lang="fr-CA">messagerie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#OrganizingProcess">
+    <rdfs:label xml:lang="fr-CA">Processus organisationnel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#populationNotes">
+    <rdfs:label xml:lang="fr-CA">notes démographiques</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#GDP">
+    <rdfs:label xml:lang="fr-CA">PIB</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Unknown">
+    <rdfs:label xml:lang="fr-CA">Inconnu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/LegalDecision">
+    <rdfs:label xml:lang="fr-CA">Décision</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000400">
+    <rdfs:label xml:lang="fr-CA">nombre par année</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasListName">
+    <rdfs:label xml:lang="fr-CA">has list name </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#termLabel">
+    <rdfs:label xml:lang="fr-CA">étiquette du terme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/prefixName">
+    <rdfs:label xml:lang="fr-CA">préfixe de nom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/swo/SWO_0000741">
+    <rdfs:label xml:lang="fr-CA">est encodé dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#group">
+    <rdfs:label xml:lang="fr-CA">Groupe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Magazine">
+    <rdfs:label xml:lang="fr-CA">Revue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Continent">
+    <rdfs:label xml:lang="fr-CA">Continent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/citedBy">
+    <rdfs:label xml:lang="fr-CA">cité par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Review">
+    <rdfs:label xml:lang="fr-CA">Critique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Course">
+    <rdfs:label xml:lang="fr-CA">Cours</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AcademicYear">
+    <rdfs:label xml:lang="fr-CA">Année académique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Film">
+    <rdfs:label xml:lang="fr-CA">Film</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hideFromDisplay">
+    <rdfs:label xml:lang="fr-CA">masquer à l'affichage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#UndergraduateStudent">
+    <rdfs:label xml:lang="fr-CA">Étudiant de premier cycle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Newspaper">
+    <rdfs:label xml:lang="fr-CA">Journal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/efo/swo/SWO_0000740">
+    <rdfs:label xml:lang="fr-CA">équipements </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasCurrency">
+    <rdfs:label xml:lang="fr-CA">devise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasPredecessorOrganization">
+    <rdfs:label xml:lang="fr-CA">organisation précédente</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AwardedDegree">
+    <rdfs:label xml:lang="fr-CA">Diplôme accordé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Title">
+    <rdfs:label xml:lang="fr-CA">Titre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Score">
+    <rdfs:label xml:lang="fr-CA">Pointage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#productId">
+    <rdfs:label xml:lang="fr-CA">ID de produit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Foundation">
+    <rdfs:label xml:lang="fr-CA">Fondation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Agent">
+    <rdfs:label xml:lang="fr-CA">Agent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasMonetaryAmount">
+    <rdfs:label xml:lang="fr-CA">Valeur monétaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#featuredIn">
+    <rdfs:label xml:lang="fr-CA">Mentionné dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AdvisingRelationship">
+    <rdfs:label xml:lang="fr-CA">Relation de conseil</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#FacultyAdministrativePosition">
+    <rdfs:label xml:lang="fr-CA">Poste administratif de professeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#translatorOf">
+    <rdfs:label xml:lang="fr-CA">Traducteur de</rdfs:label>
+    <rdfs:label xml:lang="fr-CA">tranducteur de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Facility">
+    <rdfs:label xml:lang="fr-CA">Installation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ExtensionUnit">
+    <rdfs:label xml:lang="fr-CA">Service de vulgarisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#Concept">
+    <rdfs:label xml:lang="fr-CA">Concept</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000019">
+    <rdfs:label xml:lang="fr-CA">Qualité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#URL">
+    <rdfs:label xml:lang="fr-CA">URL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000788">
+    <rdfs:label xml:lang="fr-CA">Rôle de professeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Contract">
+    <rdfs:label xml:lang="fr-CA">Contrat</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#Phase1ClinicalTrial">
+    <rdfs:label xml:lang="fr-CA">Essais clinique de phase 1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ResearchOrganization">
+    <rdfs:label xml:lang="fr-CA">Organisation de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasEquipment">
+    <rdfs:label xml:lang="fr-CA">équipment</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#calendarBusy">
+    <rdfs:label xml:lang="fr-CA">calendrier occupé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#TeacherRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de professeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Workshop">
+    <rdfs:label xml:lang="fr-CA">Atelier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasMinLatitude">
+    <rdfs:label xml:lang="fr-CA">latitude minimale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasKey">
+    <rdfs:label xml:lang="fr-CA">clé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasMinLongitude">
+    <rdfs:label xml:lang="fr-CA">longitude minimale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000030">
+    <rdfs:label xml:lang="fr-CA">Entité de contenu de l'information</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#UndergraduateAdvisingRelationship">
+    <rdfs:label xml:lang="fr-CA">Relation conseil de premier cycle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Laboratory">
+    <rdfs:label xml:lang="fr-CA">Laboratoire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000787">
+    <rdfs:label xml:lang="fr-CA">Rôle d'employé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Relationship">
+    <rdfs:label xml:lang="fr-CA">Relattion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#url">
+    <rdfs:label xml:lang="fr-CA">URL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Organization">
+    <rdfs:label xml:lang="fr-CA">Organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.obofoundry.org/ro/ro.owl#has_agent">
+    <rdfs:label xml:lang="fr-CA">agent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#start">
+    <rdfs:label xml:lang="fr-CA">début</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasSubjectArea">
+    <rdfs:label xml:lang="fr-CA">domaine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#offeredBy">
+    <rdfs:label xml:lang="fr-CA">offert par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000017">
+    <rdfs:label xml:lang="fr-CA">Entité réalisable</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Group">
+    <rdfs:label xml:lang="fr-CA">Groupe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000033">
+    <rdfs:label xml:lang="fr-CA">Entité de directives </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000142">
+    <rdfs:label xml:lang="fr-CA">mentions</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/terms/contributor">
+    <rdfs:label xml:lang="fr-CA">contributeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#validUntil">
+    <rdfs:label xml:lang="fr-CA">valide jusqu'à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Geographical">
+    <rdfs:label xml:lang="fr-CA">Geographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasFormattedName">
+    <rdfs:label xml:lang="fr-CA">nom standardisé </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Video">
+    <rdfs:label xml:lang="fr-CA">Vidéo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Room">
+    <rdfs:label xml:lang="fr-CA">Chambre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Neighbor">
+    <rdfs:label xml:lang="fr-CA">Voisin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/pageEnd">
+    <rdfs:label xml:lang="fr-CA">page de fin</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Journal">
+    <rdfs:label xml:lang="fr-CA">Revue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EducationalProcess">
+    <rdfs:label xml:lang="fr-CA">Processus éducationnel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyZH">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyZH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#moniker">
+    <rdfs:label xml:lang="fr-CA">moniker (deprecated) </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#countryAreaUnit">
+    <rdfs:label xml:lang="fr-CA">Unité de pays</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/chapter">
+    <rdfs:label xml:lang="fr-CA">numéro de chapitre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000032">
+    <rdfs:label xml:lang="fr-CA">Point de référence de la mesure scalaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/interviewer">
+    <rdfs:label xml:lang="fr-CA">interviewer</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000789">
+    <rdfs:label xml:lang="fr-CA">Rôle d'employé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Authorship">
+    <rdfs:label xml:lang="fr-CA">Paternité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Voice">
+    <rdfs:label xml:lang="fr-CA">Téléphone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001263">
+    <rdfs:label xml:lang="fr-CA">Service de modification matérielle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0003000">
+    <rdfs:label xml:lang="fr-CA">produit</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/">
+    <rdfs:label xml:lang="fr-CA">FaBiO (FRBR-Aligned Bibliographic Ontology)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000391">
+    <rdfs:label xml:lang="fr-CA">Service d'accès</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortIT">
+    <rdfs:label xml:lang="fr-CA">nameShortIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/issue">
+    <rdfs:label xml:lang="fr-CA">numéro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001262">
+    <rdfs:label xml:lang="fr-CA">Service d'analyse de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000144">
+    <rdfs:label xml:lang="fr-CA">Conclusion (texte)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaYear">
+    <rdfs:label xml:lang="fr-CA">territoireAgricoleAnnée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasCoordinate">
+    <rdfs:label xml:lang="fr-CA">coordonnées</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Country">
+    <rdfs:label xml:lang="fr-CA">Pays</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#School">
+    <rdfs:label xml:lang="fr-CA">École</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Me">
+    <rdfs:label xml:lang="fr-CA">Moi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000390">
+    <rdfs:label xml:lang="fr-CA">service fourni par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#NewsRelease">
+    <rdfs:label xml:lang="fr-CA">Communiqué de presse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ConferenceSeries">
+    <rdfs:label xml:lang="fr-CA">Série de conférences</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Publisher">
+    <rdfs:label xml:lang="fr-CA">Éditeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Slide">
+    <rdfs:label xml:lang="fr-CA">Diapositive</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001261">
+    <rdfs:label xml:lang="fr-CA">Service d'analyse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasMaxLatitude">
+    <rdfs:label xml:lang="fr-CA">latitude maximale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#studyPopulationCount">
+    <rdfs:label xml:lang="fr-CA">dénombrement des populations étudiées</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000028">
+    <rdfs:label xml:lang="fr-CA">information du contact</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000379">
+    <rdfs:label xml:lang="fr-CA">Contact</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#sound">
+    <rdfs:label xml:lang="fr-CA">son</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EmeritusProfessor">
+    <rdfs:label xml:lang="fr-CA">Professeur émérite</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#self_governing">
+    <rdfs:label xml:lang="fr-CA">Autogestion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000393">
+    <rdfs:label xml:lang="fr-CA">Service de formation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Organizational">
+    <rdfs:label xml:lang="fr-CA">Organisationnel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortEN">
+    <rdfs:label xml:lang="fr-CA">nameShortEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#Phase3ClinicalTrial">
+    <rdfs:label xml:lang="fr-CA">Essai clinique de Phase 3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000394">
+    <rdfs:label xml:lang="fr-CA">Service de traitement matériel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#InstantMessage">
+    <rdfs:label xml:lang="fr-CA">Messagerie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000013">
+    <rdfs:label xml:lang="fr-CA">Article</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#GDPTotalInCurrentPrices">
+    <rdfs:label xml:lang="fr-CA">Total du PIB en prix courants</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#licenseNumber">
+    <rdfs:label xml:lang="fr-CA">numéro de permis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Project">
+    <rdfs:label xml:lang="fr-CA">Projet</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000376">
+    <rdfs:label xml:lang="fr-CA">Qualificatif du contact</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#supportedBy">
+    <rdfs:label xml:lang="fr-CA">supporté par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#cclCode">
+    <rdfs:label xml:lang="fr-CA">published US Classification Class/subclass (CCL) code</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#prerequisiteFor">
+    <rdfs:label xml:lang="fr-CA">prérequis pour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000392">
+    <rdfs:label xml:lang="fr-CA">Service de stockage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0003001">
+    <rdfs:label xml:lang="fr-CA">produit par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/interviewee">
+    <rdfs:label xml:lang="fr-CA">personne interviewée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#affiliatedOrganization">
+    <rdfs:label xml:lang="fr-CA">Affiliation organisationnelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#familyName">
+    <rdfs:label xml:lang="fr-CA">nom de famille</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/hasGlobalCountDate">
+    <rdfs:label xml:lang="fr-CA">Date du compteur global des citations</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasNickname">
+    <rdfs:label xml:lang="fr-CA">surnom</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#Phase2ClinicalTrial">
+    <rdfs:label xml:lang="fr-CA">Essai clinique de Phase 2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#NonAcademicPosition">
+    <rdfs:label xml:lang="fr-CA">Poste non-académique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaUnit">
+    <rdfs:label xml:lang="fr-CA">unité territoriale agricole</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AdviseeRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de personne conseillée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/court">
+    <rdfs:label xml:lang="fr-CA">Tribunal </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000377">
+    <rdfs:label xml:lang="fr-CA">Profil FOAF</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core">
+    <rdfs:label xml:lang="fr-CA">SKOS (Simple Knowledge Organization System)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000008">
+    <rdfs:label xml:lang="fr-CA">Sujet mesure de poids</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/oclcnum">
+    <rdfs:label xml:lang="fr-CA"> numéro de Online Computer Library Center (OCLC)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityEN">
+    <rdfs:label xml:lang="fr-CA">nationalityEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#AdministratorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle d'administrateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Key">
+    <rdfs:label xml:lang="fr-CA">Clé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#broader">
+    <rdfs:label xml:lang="fr-CA">concept plus général</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasPhoto">
+    <rdfs:label xml:lang="fr-CA">photo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Acquaintance">
+    <rdfs:label xml:lang="fr-CA">Connaissance</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/ReferenceSource">
+    <rdfs:label xml:lang="fr-CA">Source de référence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialFR">
+    <rdfs:label xml:lang="fr-CA">nameOfficialFR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Work">
+    <rdfs:label xml:lang="fr-CA">Travail</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/cito/citesAsDataSource">
+    <rdfs:label xml:lang="fr-CA">cite comme source de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Pager">
+    <rdfs:label xml:lang="fr-CA">Téléavertisseur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#publisherOf">
+    <rdfs:label xml:lang="fr-CA">éditeur de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000124">
+    <rdfs:label xml:lang="fr-CA">non préservé </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/PersonalCommunicationDocument">
+    <rdfs:label xml:lang="fr-CA">Document de communication personnel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000039">
+    <rdfs:label xml:lang="fr-CA">étiquette d'unité de masure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/eanucc13">
+    <rdfs:label xml:lang="fr-CA">EAN International-Uniform Code Council (EAN-UCC) 13</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Committee">
+    <rdfs:label xml:lang="fr-CA">Comité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000009">
+    <rdfs:label xml:lang="fr-CA">Mesure d'expertise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeDBPediaID">
+    <rdfs:label xml:lang="fr-CA">codeDBPediaID</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#isSuccessorOf">
+    <rdfs:label xml:lang="fr-CA">est le successeur de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Presentation">
+    <rdfs:label xml:lang="fr-CA">Présentation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/fabio/ClinicalGuideline">
+    <rdfs:label xml:lang="fr-CA">Recommandation clinique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#EditorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle d'éditeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000833">
+    <rdfs:label xml:lang="fr-CA">objectif atteint par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000835">
+    <rdfs:label xml:lang="fr-CA">Manufacturier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityIT">
+    <rdfs:label xml:lang="fr-CA">nationalityIT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#email">
+    <rdfs:label xml:lang="fr-CA">courriel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasTitle">
+    <rdfs:label xml:lang="fr-CA">titre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001260">
+    <rdfs:label xml:lang="fr-CA">Service d'entretien de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Met">
+    <rdfs:label xml:lang="fr-CA">Rencontré</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000029">
+    <rdfs:label xml:lang="fr-CA">Coordonnées pour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000102">
+    <rdfs:label xml:lang="fr-CA">Données sur une partie de l'ontologie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Collection">
+    <rdfs:label xml:lang="fr-CA">Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#StudentOrganization">
+    <rdfs:label xml:lang="fr-CA">Organisation étudiante</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#postalCode">
+    <rdfs:label xml:lang="fr-CA">code postal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#agriculturalArea">
+    <rdfs:label xml:lang="fr-CA">secteur agricole</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Bill">
+    <rdfs:label xml:lang="fr-CA">Loi</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Letter">
+    <rdfs:label xml:lang="fr-CA">Lettre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeCurrency">
+    <rdfs:label xml:lang="fr-CA">codeMonnaie</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/draft">
+    <rdfs:label xml:lang="fr-CA">brouillon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#abbreviation">
+    <rdfs:label xml:lang="fr-CA">abbréviation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#landAreaUnit">
+    <rdfs:label xml:lang="fr-CA">unité de surface</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Communication">
+    <rdfs:label xml:lang="fr-CA">Communication</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Photo">
+    <rdfs:label xml:lang="fr-CA">Photo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000918">
+    <rdfs:label xml:lang="fr-CA">projet de recherche associé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#termType">
+    <rdfs:label xml:lang="fr-CA">type de terme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Exhibit">
+    <rdfs:label xml:lang="fr-CA">Exposition</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#SubnationalRegion">
+    <rdfs:label xml:lang="fr-CA">Région infranationale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000417">
+    <rdfs:label xml:lang="fr-CA">atteint l'objectif fixé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeUN">
+    <rdfs:label xml:lang="fr-CA">codeUN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Addressing">
+    <rdfs:label xml:lang="fr-CA">Addresse </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001259">
+    <rdfs:label xml:lang="fr-CA">Service d'entretien matériel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000037">
+    <rdfs:label xml:lang="fr-CA">contact ou fournisseur de service</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Location">
+    <rdfs:label xml:lang="fr-CA">Lieu</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialIT">
+    <rdfs:label xml:lang="fr-CA">nomOfficielTI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasBorderWith">
+    <rdfs:label xml:lang="fr-CA">frontière avec</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000079">
+    <rdfs:label xml:lang="fr-CA">American Board of Pathology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#geographical_region">
+    <rdfs:label xml:lang="fr-CA">Région transnationale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/locator">
+    <rdfs:label xml:lang="fr-CA">localisateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000007">
+    <rdfs:label xml:lang="fr-CA">Spécification des actions</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Text">
+    <rdfs:label xml:lang="fr-CA">Texte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasProceedings">
+    <rdfs:label xml:lang="fr-CA">actes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Internship">
+    <rdfs:label xml:lang="fr-CA">Stage</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#OrganizationUnitName">
+    <rdfs:label xml:lang="fr-CA">ONom de l'unité organisationnelle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2004/02/skos/core#narrower">
+    <rdfs:label xml:lang="fr-CA">concept plus précis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Museum">
+    <rdfs:label xml:lang="fr-CA">Musée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000020">
+    <rdfs:label xml:lang="fr-CA">Continuant dépendant spécifiquement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001258">
+    <rdfs:label xml:lang="fr-CA">Service d'entretien</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#courseCredits">
+    <rdfs:label xml:lang="fr-CA">crédits</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0001000">
+    <rdfs:label xml:lang="fr-CA">dérivé de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ResearchProposal">
+    <rdfs:label xml:lang="fr-CA">Proposition de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000012">
+    <rdfs:label xml:lang="fr-CA">Rôle de fournisseur de service</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasTelephone">
+    <rdfs:label xml:lang="fr-CA">téléphone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core">
+    <rdfs:label xml:lang="fr-CA">VIVO Core</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/presents">
+    <rdfs:label xml:lang="fr-CA">documents associés</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasSound">
+    <rdfs:label xml:lang="fr-CA">son</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasGeo">
+    <rdfs:label xml:lang="fr-CA">données géographiques </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeFAOSTAT">
+    <rdfs:label xml:lang="fr-CA">codeFAOSTAT</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Image">
+    <rdfs:label xml:lang="fr-CA">Image</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityFR">
+    <rdfs:label xml:lang="fr-CA">nationalitéFR </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#countryArea">
+    <rdfs:label xml:lang="fr-CA">paysRégion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Brief">
+    <rdfs:label xml:lang="fr-CA">Dossier </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000015">
+    <rdfs:label xml:lang="fr-CA">Étude sur des sujets humains</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0001025">
+    <rdfs:label xml:lang="fr-CA">situé en</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialEN">
+    <rdfs:label xml:lang="fr-CA">nameOfficialEN</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#protocolRealizedBy">
+    <rdfs:label xml:lang="fr-CA">protocole réalisé par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#FacultyMentoringRelationship">
+    <rdfs:label xml:lang="fr-CA">Relation de mentorat entre les professeurs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Type">
+    <rdfs:label xml:lang="fr-CA">Type</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#entryTerm">
+    <rdfs:label xml:lang="fr-CA">terme saisis </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/section">
+    <rdfs:label xml:lang="fr-CA">section</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000227">
+    <rdfs:label xml:lang="fr-CA">termes fusionnés</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#degreeCandidacy">
+    <rdfs:label xml:lang="fr-CA">candidature au diplôme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000077">
+    <rdfs:label xml:lang="fr-CA">American Board of Orthopaedic Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000919">
+    <rdfs:label xml:lang="fr-CA">spécimen biologique associé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#orcidId">
+    <rdfs:label xml:lang="fr-CA">ID ORCID</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/IAO_0000009">
+    <rdfs:label xml:lang="fr-CA">Étiquette de référence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/affirmedBy">
+    <rdfs:label xml:lang="fr-CA">affirmé par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#researcherId">
+    <rdfs:label xml:lang="fr-CA">ID de chercheur ISI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Male">
+    <rdfs:label xml:lang="fr-CA">Mâle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#role">
+    <rdfs:label xml:lang="fr-CA">rôle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#formattedName">
+    <rdfs:label xml:lang="fr-CA">nom standardisé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/accepted">
+    <rdfs:label xml:lang="fr-CA">accepté</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000038">
+    <rdfs:label xml:lang="fr-CA">spécifie l'usage de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#providesFundingThrough">
+    <rdfs:label xml:lang="fr-CA">fournit du financement par l'entremise de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000014">
+    <rdfs:label xml:lang="fr-CA">Projet de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/NET/c4dm/event.owl">
+    <rdfs:label xml:lang="fr-CA">Événement ontologique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Periodical">
+    <rdfs:label xml:lang="fr-CA">Périodique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000078">
+    <rdfs:label xml:lang="fr-CA">American Board of Otolaryngology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/rejected">
+    <rdfs:label xml:lang="fr-CA">rejeté</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002351">
+    <rdfs:label xml:lang="fr-CA">membre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#nihmsid">
+    <rdfs:label xml:lang="fr-CA">ID du système de soumission de manuscrit NIH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Colleague">
+    <rdfs:label xml:lang="fr-CA">Collègue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#landAreaYear">
+    <rdfs:label xml:lang="fr-CA">territoireAnnée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Contact">
+    <rdfs:label xml:lang="fr-CA">Contact</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#region">
+    <rdfs:label xml:lang="fr-CA">région</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001255">
+    <rdfs:label xml:lang="fr-CA">Service de support</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#eligibleFor">
+    <rdfs:label xml:lang="fr-CA">admissibilité au diplôme atteinte</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#InvitedTalk">
+    <rdfs:label xml:lang="fr-CA">Conférence sur invitation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameCurrencyFR">
+    <rdfs:label xml:lang="fr-CA">nameCurrencyFR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000033">
+    <rdfs:label xml:lang="fr-CA">expertise technique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#relates">
+    <rdfs:label xml:lang="fr-CA">relié à </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#localAwardId">
+    <rdfs:label xml:lang="fr-CA">ID de distinction locale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000914">
+    <rdfs:label xml:lang="fr-CA">Rôle de l'étudiant stagiaire de cycle supérieur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000011">
+    <rdfs:label xml:lang="fr-CA">Processus de mesure de l'expertise</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/hasGlobalCountSource">
+    <rdfs:label xml:lang="fr-CA">source de compte global</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/translator">
+    <rdfs:label xml:lang="fr-CA">traducteur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000040">
+    <rdfs:label xml:lang="fr-CA">Entité matérielle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/translationOf">
+    <rdfs:label xml:lang="fr-CA">traduction de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#grantDirectCosts">
+    <rdfs:label xml:lang="fr-CA">coûts directs</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/shortDescription">
+    <rdfs:label xml:lang="fr-CA">courte description</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002350">
+    <rdfs:label xml:lang="fr-CA">membre de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001254">
+    <rdfs:label xml:lang="fr-CA">Service de transport</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#geo">
+    <rdfs:label xml:lang="fr-CA">géo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#language">
+    <rdfs:label xml:lang="fr-CA">a une langue</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#revision">
+    <rdfs:label xml:lang="fr-CA">révision</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ReviewerRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de réviseur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000304">
+    <rdfs:label xml:lang="fr-CA">manufacturé par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#BlogPosting">
+    <rdfs:label xml:lang="fr-CA">Publication de Blog</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Hospital">
+    <rdfs:label xml:lang="fr-CA">Hôpital</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000012">
+    <rdfs:label xml:lang="fr-CA">Étiquette de mesure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#yearMonthPrecision">
+    <rdfs:label xml:lang="fr-CA">valeur année-mois</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002353">
+    <rdfs:label xml:lang="fr-CA">résultat de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/director">
+    <rdfs:label xml:lang="fr-CA">directeur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/RO_0002220">
+    <rdfs:label xml:lang="fr-CA">adjacent à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vitro.mannlib.cornell.edu/ns/vitro/0.7">
+    <rdfs:label xml:lang="fr-CA">interne à Vitro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#honorificSuffix">
+    <rdfs:label xml:lang="fr-CA">suffixe honorifique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001257">
+    <rdfs:label xml:lang="fr-CA">Service de stockage de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#related">
+    <rdfs:label xml:lang="fr-CA">relié à</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Meeting">
+    <rdfs:label xml:lang="fr-CA">Réunion</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#reviewedIn">
+    <rdfs:label xml:lang="fr-CA">analysé dans</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#additionalName">
+    <rdfs:label xml:lang="fr-CA">nom complémentaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Identification">
+    <rdfs:label xml:lang="fr-CA">Identification</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#teachingOverview">
+    <rdfs:label xml:lang="fr-CA">aperçu de l'enseignement</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/eissn">
+    <rdfs:label xml:lang="fr-CA">Electronic International Standard Serial Number (EISSN)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#codeGAUL">
+    <rdfs:label xml:lang="fr-CA">codeGAUL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Consortium">
+    <rdfs:label xml:lang="fr-CA">Consortium</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/issn">
+    <rdfs:label xml:lang="fr-CA">International Standard Serial Number (ISSN)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#dateTimeValue">
+    <rdfs:label xml:lang="fr-CA">Date/heure</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001256">
+    <rdfs:label xml:lang="fr-CA">Service d'entreposage matériel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#submitted">
+    <rdfs:label xml:lang="fr-CA">soumis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000010">
+    <rdfs:label xml:lang="fr-CA">Processus de mesure du poids du sujet </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasNationality">
+    <rdfs:label xml:lang="fr-CA">nationalité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#majorField">
+    <rdfs:label xml:lang="fr-CA">domaine d'étude principal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/dc/terms/relation">
+    <rdfs:label xml:lang="fr-CA">relation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vitro.mannlib.cornell.edu/ns/vitro/public">
+    <rdfs:label xml:lang="fr-CA">Vitro Public Ontology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Speech">
+    <rdfs:label xml:lang="fr-CA">Discours</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/CourtReporter">
+    <rdfs:label xml:lang="fr-CA">Greffier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000034">
+    <rdfs:label xml:lang="fr-CA">manufacturier</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Department">
+    <rdfs:label xml:lang="fr-CA">Département</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Position">
+    <rdfs:label xml:lang="fr-CA">Poste </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortES">
+    <rdfs:label xml:lang="fr-CA">nameShortES</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#LeaderRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de leader</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Phase_0">
+    <rdfs:label xml:lang="fr-CA">Phase 0</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasFundingVehicle">
+    <rdfs:label xml:lang="fr-CA">financement fourni par</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#sortAs">
+    <rdfs:label xml:lang="fr-CA">tri sur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vitro.mannlib.cornell.edu/ns/vitro/public#FileByteStream">
+    <rdfs:label xml:lang="fr-CA">FichierOctetFlux</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000003">
+    <rdfs:label xml:lang="fr-CA">occurence</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/BookSection">
+    <rdfs:label xml:lang="fr-CA">Section d'un livre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/AudioVisualDocument">
+    <rdfs:label xml:lang="fr-CA">Document audio-visuel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_0000015">
+    <rdfs:label xml:lang="fr-CA">étiquette définie par l'utilisateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000784">
+    <rdfs:label xml:lang="fr-CA">Rôle d'étudiant de premier cycle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/abstract">
+    <rdfs:label xml:lang="fr-CA">résumé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#hasAssociatedConcept">
+    <rdfs:label xml:lang="fr-CA">concept associé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#yearMonthDayPrecision">
+    <rdfs:label xml:lang="fr-CA">année-mois-jour value</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000071">
+    <rdfs:label xml:lang="fr-CA">American Board of Internal Medicine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Building">
+    <rdfs:label xml:lang="fr-CA">Édifice</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/issuer">
+    <rdfs:label xml:lang="fr-CA">émetteur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Database">
+    <rdfs:label xml:lang="fr-CA">Base de données</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#OrganizerRole">
+    <rdfs:label xml:lang="fr-CA">Rôle d'organisateur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasEmail">
+    <rdfs:label xml:lang="fr-CA">courriel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/annotates">
+    <rdfs:label xml:lang="fr-CA">annotate</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Phase_1">
+    <rdfs:label xml:lang="fr-CA">Phase 1</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#CalendarBusy">
+    <rdfs:label xml:lang="fr-CA">Calendrier occupé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001521">
+    <rdfs:label xml:lang="fr-CA">réalisé par l'organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PopulatedPlace">
+    <rdfs:label xml:lang="fr-CA">Lieu habité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Competition">
+    <rdfs:label xml:lang="fr-CA">Compétition</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#hasStatistics">
+    <rdfs:label xml:lang="fr-CA">statistiques</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000004">
+    <rdfs:label xml:lang="fr-CA">Entité continuante indépendante </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Related">
+    <rdfs:label xml:lang="fr-CA">Relié</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000783">
+    <rdfs:label xml:lang="fr-CA">Rôle d'étudiant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000565">
+    <rdfs:label xml:lang="fr-CA">Bureau du transfert technologique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#offers">
+    <rdfs:label xml:lang="fr-CA">offre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000072">
+    <rdfs:label xml:lang="fr-CA">American Board of Medical Genetics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#fundingVehicleFor">
+    <rdfs:label xml:lang="fr-CA">fournit du financement pour</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GovernmentAgency">
+    <rdfs:label xml:lang="fr-CA">Agence gouvernementale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#researchOverview">
+    <rdfs:label xml:lang="fr-CA">Aperçu de la recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#reportId">
+    <rdfs:label xml:lang="fr-CA">identifiant du rapport</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000001">
+    <rdfs:label xml:lang="fr-CA">Entité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Book">
+    <rdfs:label xml:lang="fr-CA">Livre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#assignee">
+    <rdfs:label xml:lang="fr-CA">mandataire </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#DateTimeValue">
+    <rdfs:label xml:lang="fr-CA">Date/Temps</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000786">
+    <rdfs:label xml:lang="fr-CA">Rôle d'élève du secondaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasRelated">
+    <rdfs:label xml:lang="fr-CA">relié</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#IssuedCredential">
+    <rdfs:label xml:lang="fr-CA">Diplôme émis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#subjectAreaOf">
+    <rdfs:label xml:lang="fr-CA">sujet de recherche de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000002">
+    <rdfs:label xml:lang="fr-CA">Continuant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/spar/c4o/hasGlobalCountValue">
+    <rdfs:label xml:lang="fr-CA">compteur global</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#proceedingsOf">
+    <rdfs:label xml:lang="fr-CA">actes de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#PostdoctoralTraining">
+    <rdfs:label xml:lang="fr-CA">Formation postedoctorale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#countryAreaNotes">
+    <rdfs:label xml:lang="fr-CA">note de pays et régions</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#distributesFundingFrom">
+    <rdfs:label xml:lang="fr-CA">distribue le financement provenant de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Grant">
+    <rdfs:label xml:lang="fr-CA">Subvention</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000785">
+    <rdfs:label xml:lang="fr-CA">Rôle d'étudiant diplômé</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000543">
+    <rdfs:label xml:lang="fr-CA">technique associée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000070">
+    <rdfs:label xml:lang="fr-CA">American Board of Family Medicine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#InvestigatorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de chercheur</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Group">
+    <rdfs:label xml:lang="fr-CA">Groupe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasOrganizationName">
+    <rdfs:label xml:lang="fr-CA">nom de l'organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Newsletter">
+    <rdfs:label xml:lang="fr-CA">Bulletin d'information</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Phase_4">
+    <rdfs:label xml:lang="fr-CA">Phase 4</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Cell">
+    <rdfs:label xml:lang="fr-CA">Cellulaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/AcademicArticle">
+    <rdfs:label xml:lang="fr-CA">Article de recherche</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#NonFacultyAcademic">
+    <rdfs:label xml:lang="fr-CA">Enseignant</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/BFO_0000023">
+    <rdfs:label xml:lang="fr-CA">Rôle</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Other">
+    <rdfs:label xml:lang="fr-CA">Autre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#eRACommonsId">
+    <rdfs:label xml:lang="fr-CA">eRA Commons ID</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000075">
+    <rdfs:label xml:lang="fr-CA">American Board of Obstetrics and Gynecology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#conceptAssociatedWith">
+    <rdfs:label xml:lang="fr-CA">concept de</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000780">
+    <rdfs:label xml:lang="fr-CA">Rôle de résident non-permanent</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#F1000Link">
+    <rdfs:label xml:lang="fr-CA">Lien F1000</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Proceedings">
+    <rdfs:label xml:lang="fr-CA">Actes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#GeographicRegion">
+    <rdfs:label xml:lang="fr-CA">Région géographique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Thesis">
+    <rdfs:label xml:lang="fr-CA">Thèse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#countryAreaYear">
+    <rdfs:label xml:lang="fr-CA">paysRégionAnnée</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Performance">
+    <rdfs:label xml:lang="fr-CA">Performance</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nationalityZH">
+    <rdfs:label xml:lang="fr-CA">nationalityZH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#invited">
+    <rdfs:label xml:lang="fr-CA">invité</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research#irbNumber">
+    <rdfs:label xml:lang="fr-CA">numéro Institutional Review Board (IRB)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0000016">
+    <rdfs:label xml:lang="fr-CA">Essai clinique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000076">
+    <rdfs:label xml:lang="fr-CA">American Board of Ophthalmology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#telephone">
+    <rdfs:label xml:lang="fr-CA">Telephone</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameOfficialZH">
+    <rdfs:label xml:lang="fr-CA">nameOfficialZH</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Organization">
+    <rdfs:label xml:lang="fr-CA">Organisation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OBI_0000017">
+    <rdfs:label xml:lang="fr-CA">Role réglementaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#hasURL">
+    <rdfs:label xml:lang="fr-CA">URL</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ERO_0001520">
+    <rdfs:label xml:lang="fr-CA">effectue des études sur les humains</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Phase_2">
+    <rdfs:label xml:lang="fr-CA">Phase 2</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#isCorrespondingAuthor">
+    <rdfs:label xml:lang="fr-CA">Est-ce que cet personne est l'auteur recherché?</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#middleName">
+    <rdfs:label xml:lang="fr-CA">deuxième prénom ou initiale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#streetAddress">
+    <rdfs:label xml:lang="fr-CA">adresse postale</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#inPress">
+    <rdfs:label xml:lang="fr-CA">sous presse</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#area">
+    <rdfs:label xml:lang="fr-CA">Région</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000073">
+    <rdfs:label xml:lang="fr-CA">American Board of Neurological Surgery</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/">
+    <rdfs:label xml:lang="fr-CA">OBO Foundry</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Issue">
+    <rdfs:label xml:lang="fr-CA">numéro</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#Female">
+    <rdfs:label xml:lang="fr-CA">Femme</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#ServiceProvidingLaboratory">
+    <rdfs:label xml:lang="fr-CA">Service de laboratoire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortAR">
+    <rdfs:label xml:lang="fr-CA">nameShortAR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/volume">
+    <rdfs:label xml:lang="fr-CA">volume</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/scientific-research">
+    <rdfs:label xml:lang="fr-CA">VIVO Scientific Research Ontology</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameListFR">
+    <rdfs:label xml:lang="fr-CA">nameListFR</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#Librarian">
+    <rdfs:label xml:lang="fr-CA">Bibliothécaire</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Legislation">
+    <rdfs:label xml:lang="fr-CA">Législation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/net/OCRe/study_design.owl#Phase_3">
+    <rdfs:label xml:lang="fr-CA">Phase 3</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#nameShortRU">
+    <rdfs:label xml:lang="fr-CA">nomRaccourciRU </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#contactInformation">
+    <rdfs:label xml:lang="fr-CA">contact</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#CoPrincipalInvestigatorRole">
+    <rdfs:label xml:lang="fr-CA">Rôle de co-chercheur principal</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl">
+    <rdfs:label xml:lang="fr-CA">Ontologie géopolitique</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/ARG_2000074">
+    <rdfs:label xml:lang="fr-CA">American Board of Nuclear Medicine</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2006/vcard/ns#title">
+    <rdfs:label xml:lang="fr-CA">titre</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/ontology/bibo/Series">
+    <rdfs:label xml:lang="fr-CA">Collection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://aims.fao.org/aos/geopolitical.owl#population">
+    <rdfs:label xml:lang="fr-CA">population</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#researchAreaOf">
+    <rdfs:label xml:lang="fr-CA">Domaine de recherche de </rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with TopBraid -->

@@ -1,0 +1,20 @@
+# baseURI: http://localhost:8080/vivo/monOntologie
+# imports: http://vivoweb.org/ontology/core
+# prefix: monOntologie
+
+@prefix monOntologie: <http://localhost:8080/vivo/monOntologie#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://localhost:8080/vivo/monOntologie>
+  a owl:Ontology ;
+  owl:imports <http://vivoweb.org/ontology/core> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+monOntologie:ProfTourn
+  a vivo:FacultyMember ;
+  rdfs:label "Professeur Tourensol @{fr-CA}" ;
+.
